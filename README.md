@@ -1,11 +1,12 @@
-# myprofile
+# matrix
 
-# Games
+# livros
+* php do jeito certo
+* codigo limpo
+* banco de dados com MySQL
+* HTML5 com CSS3
+* JavaScript for profissional
 
-* God of War
-* Call Of Duty
-
-# Livros
-
-* Herry Poter
-* Divergente
+# bandas 
+* banda bullet 
+* qualquer outra coisa
